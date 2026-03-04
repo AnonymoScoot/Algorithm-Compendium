@@ -1,3 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
+cd palindrome
 python -m unittest discover
